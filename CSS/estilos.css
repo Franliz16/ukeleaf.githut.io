@@ -1,0 +1,225 @@
+body{
+    background:url(../IMAGENES/bg.jpg);
+    background-attachment: scroll;
+    color: rgba(255, 255, 255, 0.65);
+    font-family: "inherit";
+    font-size: 14pt;
+    font-weight: 200;
+    line-height: 1.65;   
+    margin: 10;
+		padding: 10;
+		border: 10;
+}
+h1{
+    font-size:50px;
+    text-align: center;
+   
+    position: relative;
+    top: 30px;
+}
+ h2,h3{
+    color: rgba(255, 255, 255, 0.65);
+    text-align: center;
+    font-size:35px;
+    line-height: 1.5;
+    
+    
+}
+
+p{
+ text-align:center;
+ line-height:30px;
+}
+li a {
+    color:rgb(159, 228, 228);
+}
+
+div{
+   width: 140px; 
+    margin: 20px;
+}
+.hoja{
+    position: relative;
+    left:790px;
+    top:140px;
+ }
+.mover {
+
+    width:260px;
+    height:260px;
+    border-radius:150px;
+    border:3px solid #666;
+    position: absolute;
+    left:550px;
+    bottom: 340px;
+    display: inline-block;
+   
+}
+.fam{
+    border-radius: 4px;
+			display: inline-block;
+            max-width: 300px;
+            padding: 1 ;
+			top: 0.25em;
+            border-top:  solid 15px rgba(255, 255, 255, 0.1);
+            position: relative;
+            top:50px;
+}
+.music {
+    border-radius: 4px;
+			display: inline-block;
+            max-width: 400px;
+            padding: 0 ;
+            top: 0.25em;
+            position: relative;
+            left:50px;
+            border: solid 10px  rgba(255, 255, 255, 0.1);
+           
+}
+.manu {
+    float: right;
+    max-width: 400px;
+			top: 0.25em;
+            border: solid 5px  rgba(255, 255, 255, 0.1);
+            position: relative;
+            right:30px;
+}
+.lee {
+    display: block;
+			margin: 0 0 2em 0;
+			width: 400px;
+            border: solid 5px  rgba(255, 255, 255, 0.1);
+            position: relative;
+            bottom:400px ;
+            left:900px;
+}
+.viaje {
+    display: block;
+			margin: 0 0 2em 0;
+			width: 350px;
+            border: solid 5px  rgba(255, 255, 255, 0.1);
+            position: relative;
+            bottom:365px ;
+            left:700px;
+}
+.evan {
+    display: block;
+			margin: 0 0 2em 0;
+			width: 350px;
+            border: solid 10px  rgba(255, 255, 255, 0.1);
+            position: relative;
+            bottom:1000px ;
+            left:300px;
+}
+
+.red{
+    
+    text-align:left;
+    position: relative;
+   bottom:1310px;
+   left:455px;
+   
+
+}
+.moveri {
+    position: relative;;
+    bottom:1200px;
+    left: 450PX;
+    
+  
+   
+}
+.correo{
+    text-align:left;
+    position: relative;
+   bottom:1300px;
+   left:760px;
+
+}
+.correop {
+    position: relative;
+   top:-50px;
+   left: 275px;
+}
+footer {
+    color: rgba(255, 255, 255, 0.65);
+    font-family: "Agency FB";
+    font-size: 13pt;
+    text-align: center;
+    position: relative;
+    bottom:1300px;
+}
+div a {
+    color: rgba(255, 255, 255, 0.65);
+}
+
+
+.linea{
+    
+    border-top:  solid 1px rgba(255, 255, 255, 0.25);
+}
+.fa{
+    color: rgba(255, 255, 255, 0.65);
+    font-family: "Agency FB";
+    font-size: 25pt;
+    position: relative;
+    bottom:1500px;
+    left: 50px;
+   
+        }
+
+        .uke{
+            color: rgba(255, 255, 255, 0.65);
+            font-family: "Agency FB";
+            font-size: 25pt;
+            position: relative;
+            bottom:1640px;
+            left: 450px;
+            text-decoration: line-through;
+           
+                }
+
+                .man{
+                    color: rgba(255, 255, 255, 0.65);
+                    font-family: "Agency FB";
+                    font-size: 25pt;
+                    position: relative;
+                    bottom:2150px;
+                    left: 1000px;
+                 
+                        }
+                        .leer{
+                            color: rgba(255, 255, 255, 0.65);
+                            font-family: "Agency FB";
+                            font-size: 25pt;
+                            position: relative;
+                            bottom:1650px;
+                            left:1000px;
+                           
+                                }
+                                .evang{
+                                    color: rgba(255, 255, 255, 0.65);
+                                    font-family: "Agency FB";
+                                    font-size: 25pt;
+                                    position: relative;
+                                    bottom:1250px;
+                                    left: 400px;
+                                        }
+                                        .vi{
+                                            color: rgba(255, 255, 255, 0.65);
+                                            font-family: "Agency FB";
+                                            font-size: 25pt;
+                                            position: relative;
+                                            bottom:1300px;
+                                            left: 1030px;
+                                           
+                                                }
+                                                .PRO{
+                                                    color: rgba(255, 255, 255, 0.65);
+                                                    position: relative;
+                                                    bottom:1530px;
+                                                    right:50px;
+                                                    font-family: "inherit";
+                                                   
+                                                        }
+                                
